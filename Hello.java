@@ -1,5 +1,5 @@
 public class Hello{
 	public static void main(String [] args){
-		System.out.println("Hello Jenkins, It's first Demo Program");
+		System.out.println("Hello Jenkins, first Demo Program");
 	}
 }
